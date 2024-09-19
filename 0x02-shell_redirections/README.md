@@ -1,1 +1,2 @@
-Write a script that prints “Hello, World”, followed by a new line to the standard output.
+## 0x02. Shell, I/O Redirections and filters
+**This project is about unix standard i/o, redirection, filters, piping, and other related commands**

@@ -1,4 +1,3 @@
-Display current directory contents.
-Long format
-with user and group IDs displayed numerically
-And hidden files (starting with .)
+## 0x00. Shell, basics
+
+**This project is about the basics of shell and bash programming**

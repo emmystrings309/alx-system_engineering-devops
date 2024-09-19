@@ -1,3 +1,3 @@
- Create a script that creates an alias.
-Name: ls
-Value: rm * 
+## 0x03-shell_variables_expansions
+
+**This project is about Shell, init files, variables and expansions**
